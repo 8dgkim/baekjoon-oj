@@ -18,9 +18,9 @@ Bronze > Silver > Gold > Platinum > Diamond > Ruby
 
 PROGRESS\
 단계별\
-level-1 (D): 입출력과 사칙연산\
-level-2 (IP): if문\
-level-3: for문\
+level-1 (F): 입출력과 사칙연산\
+level-2 (F): if문\
+level-3 (IP): for문\
 level-4: while문\
 level-5: 1차원 배열\
 level-6: 함수\
