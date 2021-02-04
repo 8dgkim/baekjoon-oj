@@ -8,9 +8,9 @@ Finished: (F)
 
 
 CURRENT RANKING\
-Bronze III\
-44979/baekjoon\
-13653/solved.ac
+Bronze II\
+37022/baekjoon\
+13083/solved.ac
 
 V > IV > III > II > I\
 Bronze > Silver > Gold > Platinum > Diamond > Ruby
@@ -24,8 +24,8 @@ level-3 (F): for문\
 level-4 (F): while문\
 level-5 (F): 1차원 배열\
 level-6 (F): 함수\
-level-7 (IP): 문자열\
-level-8: 기본 수학 1\
+level-7 (F): 문자열\
+level-8 (IP): 기본 수학 1\
 level-9: 기본 수학 2\
 level-10: 재귀\
 level-11: 브루트 포스\
