@@ -4,6 +4,9 @@
         "ostream": "cpp",
         "xlocale": "cpp",
         "xstring": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "xmemory": "cpp"
     }
 }

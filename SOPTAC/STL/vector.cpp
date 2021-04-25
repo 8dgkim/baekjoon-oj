@@ -20,9 +20,9 @@ int main()
 
     a.pop_back();
 
-    a.clear();
+    // a.clear();
 
-    a.size();
+    // a.size();
 
     for (i = 0; i < a.size(); i++) {
         cout << a[i] << ' ';
