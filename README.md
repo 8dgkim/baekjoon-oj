@@ -18,10 +18,10 @@ Bronze > Silver > Gold > Platinum > Diamond > Ruby
 
 PROGRESS
 
-문제집\
+문제집
 
 
-출처\
+출처
 
 
 단계별\
@@ -58,6 +58,6 @@ level-25: 최단 경로
 그리디 알고리즘 Greedy Algorithm\
 동적 계획법 Dynamic Programming\
 정렬 Sorting\
-이분 탐색 Binary Search\
+이분 탐색 Binary Search
 
 
