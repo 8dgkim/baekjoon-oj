@@ -9,8 +9,8 @@ Finished: (F)
 
 CURRENT RANKING\
 Silver V\
-31810/baekjoon\
-14253/solved.ac
+30587/baekjoon\
+13478/solved.ac
 
 V > IV > III > II > I\
 Bronze > Silver > Gold > Platinum > Diamond > Ruby
